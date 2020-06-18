@@ -140,7 +140,7 @@ body {
     .header__menu_items:last-child {
       margin-right: 0; }
   .header .header__menu_items a:hover,
-  .header .header__menu_items a:active {
+  .header .header__menu_items a:visited {
     color: #bbb; }
 
 .menu {
@@ -214,12 +214,12 @@ body {
       margin: 0px 12px 0px  0px;
       color: #ffffff; }
   .intro .intro__contact img:hover,
-  .intro .intro__contact img:active {
+  .intro .intro__contact img:visited {
     width: 35px;
     height: 35px;
     margin: 5px 0 -10px 0; }
   .intro .intro__contact_items a:hover,
-  .intro .intro__contact_items a:active {
+  .intro .intro__contact_items a:visited {
     color: #bbb; }
   .intro__button_btn {
     width: 294px;
@@ -236,10 +236,10 @@ body {
       text-transform: uppercase;
       letter-spacing: 2.52px; }
   .intro .intro__button_btn:hover,
-  .intro .intro__button_btn:active {
+  .intro .intro__button_btn:visited {
     background-color: #fff; }
     .intro .intro__button_btn:hover p,
-    .intro .intro__button_btn:active p {
+    .intro .intro__button_btn:visited p {
       -webkit-transition: all 0.1s ease 0s;
       -o-transition: all 0.1s ease 0s;
       transition: all 0.1s ease 0s;
@@ -315,10 +315,10 @@ body {
   height: 1043px; }
 
 .about .about__btn_btn:hover,
-.about .about__btn_btn:active {
+.about .about__btn_btn:visited {
   background-color: #000; }
   .about .about__btn_btn:hover p,
-  .about .about__btn_btn:active p {
+  .about .about__btn_btn:visited p {
     -webkit-transition: all 0.1s ease 0s;
     -o-transition: all 0.1s ease 0s;
     transition: all 0.1s ease 0s;
@@ -567,20 +567,20 @@ body {
       font-size: calc(12px + 4 * (100vw / 1745)); } }
 
 .travel .travel__btn1_btn1:hover,
-.travel .travel__btn1_btn1:active {
+.travel .travel__btn1_btn1:visited {
   background-color: #bbb; }
   .travel .travel__btn1_btn1:hover p,
-  .travel .travel__btn1_btn1:active p {
+  .travel .travel__btn1_btn1:visited p {
     -webkit-transition: all 0.1s ease 0s;
     -o-transition: all 0.1s ease 0s;
     transition: all 0.1s ease 0s;
     color: #fff; }
 
 .travel .travel__btn2_btn2:hover,
-.travel .travel__btn2_btn2:active {
+.travel .travel__btn2_btn2:visited {
   background-color: #bbb; }
   .travel .travel__btn2_btn2:hover p,
-  .travel .travel__btn2_btn2:active p {
+  .travel .travel__btn2_btn2:visited p {
     -webkit-transition: all 0.1s ease 0s;
     -o-transition: all 0.1s ease 0s;
     transition: all 0.1s ease 0s;
@@ -729,10 +729,10 @@ body {
       text-transform: uppercase;
       letter-spacing: 3.08px; }
   .discounter .discounter__btn:hover,
-  .discounter .discounter__btn:active {
+  .discounter .discounter__btn:visited {
     background-color: #fff; }
     .discounter .discounter__btn:hover p,
-    .discounter .discounter__btn:active p {
+    .discounter .discounter__btn:visited p {
       -webkit-transition: all 0.1s ease 0s;
       -o-transition: all 0.1s ease 0s;
       transition: all 0.1s ease 0s;
