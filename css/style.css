@@ -79,6 +79,9 @@ h1, h2, h3, h4, h5, h6 {
   100% {
     opacity: 1; } }
 
+body {
+  overflow-x: hidden; }
+
 .container {
   max-width: 1745px;
   margin: 0 auto;
