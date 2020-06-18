@@ -1069,7 +1069,7 @@ body {
   .discounter__form {
     margin: 64px 0 35px 0px;
     position: relative;
-    left: 40px; }
+    left: 0px; }
     .discounter__form_form input {
       width: 100%;
       display: -webkit-box;
